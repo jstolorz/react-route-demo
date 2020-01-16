@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/jstolorz/react-route-demo/static/css/main.f2806335.chunk.css",
-    "main.js": "/jstolorz/react-route-demo/static/js/main.b4cd89a7.chunk.js",
-    "main.js.map": "/jstolorz/react-route-demo/static/js/main.b4cd89a7.chunk.js.map",
-    "runtime-main.js": "/jstolorz/react-route-demo/static/js/runtime-main.5305111d.js",
-    "runtime-main.js.map": "/jstolorz/react-route-demo/static/js/runtime-main.5305111d.js.map",
-    "static/js/2.6f2e3dad.chunk.js": "/jstolorz/react-route-demo/static/js/2.6f2e3dad.chunk.js",
-    "static/js/2.6f2e3dad.chunk.js.map": "/jstolorz/react-route-demo/static/js/2.6f2e3dad.chunk.js.map",
-    "index.html": "/jstolorz/react-route-demo/index.html",
-    "precache-manifest.2e39e7b67f738c8ab86562d855492040.js": "/jstolorz/react-route-demo/precache-manifest.2e39e7b67f738c8ab86562d855492040.js",
-    "service-worker.js": "/jstolorz/react-route-demo/service-worker.js",
-    "static/css/main.f2806335.chunk.css.map": "/jstolorz/react-route-demo/static/css/main.f2806335.chunk.css.map",
-    "static/js/2.6f2e3dad.chunk.js.LICENSE": "/jstolorz/react-route-demo/static/js/2.6f2e3dad.chunk.js.LICENSE",
-    "static/media/header1.jpg": "/jstolorz/react-route-demo/static/media/header1.70e6670e.jpg",
-    "static/media/header2.jpg": "/jstolorz/react-route-demo/static/media/header2.33eca35f.jpg",
-    "static/media/header3.jpg": "/jstolorz/react-route-demo/static/media/header3.d9d36b65.jpg"
+    "main.css": "/react-route-demo/static/css/main.f2806335.chunk.css",
+    "main.js": "/react-route-demo/static/js/main.3bba3803.chunk.js",
+    "main.js.map": "/react-route-demo/static/js/main.3bba3803.chunk.js.map",
+    "runtime-main.js": "/react-route-demo/static/js/runtime-main.aeb50fa7.js",
+    "runtime-main.js.map": "/react-route-demo/static/js/runtime-main.aeb50fa7.js.map",
+    "static/js/2.6f2e3dad.chunk.js": "/react-route-demo/static/js/2.6f2e3dad.chunk.js",
+    "static/js/2.6f2e3dad.chunk.js.map": "/react-route-demo/static/js/2.6f2e3dad.chunk.js.map",
+    "index.html": "/react-route-demo/index.html",
+    "precache-manifest.441dc2de7c8a988ec48e12f37cb1fd92.js": "/react-route-demo/precache-manifest.441dc2de7c8a988ec48e12f37cb1fd92.js",
+    "service-worker.js": "/react-route-demo/service-worker.js",
+    "static/css/main.f2806335.chunk.css.map": "/react-route-demo/static/css/main.f2806335.chunk.css.map",
+    "static/js/2.6f2e3dad.chunk.js.LICENSE": "/react-route-demo/static/js/2.6f2e3dad.chunk.js.LICENSE",
+    "static/media/header1.jpg": "/react-route-demo/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/react-route-demo/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/react-route-demo/static/media/header3.d9d36b65.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5305111d.js",
+    "static/js/runtime-main.aeb50fa7.js",
     "static/js/2.6f2e3dad.chunk.js",
     "static/css/main.f2806335.chunk.css",
-    "static/js/main.b4cd89a7.chunk.js"
+    "static/js/main.3bba3803.chunk.js"
   ]
 }
