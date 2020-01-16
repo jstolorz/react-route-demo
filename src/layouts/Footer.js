@@ -6,9 +6,9 @@ const Footer = props => {
         <div>
             <h2>Stopka</h2>
             <Route path="/" exact render={(props) => {
-                console.log(props)
+
                 return (
-                    <p>Dodatkowe</p>
+                    <p>js</p>
                 )
             }}/>
         </div>
